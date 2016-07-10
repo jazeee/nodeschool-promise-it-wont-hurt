@@ -1,6 +1,6 @@
 require('es6-promise')
 
-attachTitle = (param) -> "DR. #{param}"
+attachTitle = (name) -> "DR. #{name}"
 
 promise = Promise.resolve "MANHATTAN"
 
