@@ -4,8 +4,9 @@
   "description": "NodeSchool Solutions by Jaz for promise-it-wont-hurt workshopper",
   "main": "index.js",
   "dependencies": {
+    "promise-it-wont-hurt": "^1.0.0-alpha.2"
   },
-  "devDependencies": { },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
